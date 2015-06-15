@@ -1,4 +1,4 @@
 define([
-  'wysiwyg/wysiwyg',
-  'css!wysiwyg/wysiwyg',
+  'jstree/jstree',
+  'css!jstree/style',
 ], function(){});
